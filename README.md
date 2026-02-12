@@ -8,7 +8,7 @@ Este é um projeto de backend robusto desenvolvido com **TypeScript**, utilizand
 - **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
 - **ORM:** [Prisma](https://www.prisma.io/)
 - **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/)
-- **Framework:** [Ex: Express / Fastify / NestJS]
+- **Framework:** [ Express ]
 
 ## 📋 Pré-requisitos
 
